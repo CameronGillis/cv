@@ -1,0 +1,8 @@
+desktop.ini
+.DS_Store
+.bash-profile.swp
+.env
+node_modules/
+/Heroku Apps
+Secrets/
+Procfile
