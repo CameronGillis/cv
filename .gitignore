@@ -4,5 +4,4 @@ desktop.ini
 .env
 node_modules/
 /Heroku Apps
-Secrets/
 Procfile

@@ -5,6 +5,3 @@ to be used as web applications.
 The css and image folders, as well as the index.html file are
 for my personal website, which will be continually updated as
 I create more projects and complete more certifications.
-
-I refreshed the repository due to some security issues caused by
-amateur mistakes.
